@@ -11,7 +11,7 @@ Es gibt für mich als "Bastler" drei große Bereiche, für die ich Microcontroll
 3. Netzwerk (WLAN) Anwendungen die etwas im Internet machen sollen: **ESP32**
 
 Bei 2. und 3. macht eine Eigenentwicklung keinen Sinn, weil es genug Development-Boards auf dem Markt gibt. Doch gerade die beliebten Arduino-Boards der 1. Generation sind im Moment entweder schwer zu bekommen, oder extrem teuer (Klone liegen bei 8-12EUR).
-Außerdem war nie ein Freund von Quarzen. Ich liebe interne Oszillatoren. Natürlich sind sie nicht sehr genau ... doch viele Boards verwenden billge Resonatoren statt Quarze - die sind auch nicht viel genauer.
+Außerdem war ich nie ein Freund von Quarzen. Ich liebe interne Oszillatoren. Natürlich sind sie nicht sehr genau ... doch viele Boards verwenden billge Resonatoren statt Quarze - die sind auch nicht viel genauer.
 
 Vorlage sind für mich hier zunächst das **ATMEGA4808 megaAVR Mini Dev. Board, Arduino Compatible**
 
