@@ -31,3 +31,7 @@ Welches mir als Inspiration für mein Board diente.
 ![Arduino-Nano-Clone-4.0](./images/m4808.png)
 
 Da ich keinen Bedarf für einen 32kHz Quarz habe, habe ich diesen weggelassen. Da ich eigentlich keinen Upload per Bootloader vorhabe, sondern direkt per UPDI, habe ich ebenfalls den CH340N verwendet, der zwar ein RTS-Signal besitzt, aber kein DTR. Das hat mir unter Linux bisher immer Probleme gemacht, wenn es um den Upload per Bootloader ging. Aber die serielle Kommunikation funktioniert einwandfrei.
+
+Die Spannungsversorgung ist über USB vorgesehen (5V), doch auch eine alternative Spannungsversorgung ist mit einem dreipoligen Spannungsregler machbar. Dabei habe ich mich bewußt gegen einen Spannungsregler auf dem Board entschieden, da Linear-Regler Gift für einen Akku-Betrieb sind, und sobald man die Platine irgendwo einbauen möchte, braucht man ja ggf. eine unabhängige Stromversorgung.
+
+Stefan's Idee, auch einen **AVRxxDy32** alternativ zu verwenden, gefällt mir ebenfalls. Insbesondere für einen 12bit ADC oder Port C mit eigener (z.B. 3.3V) Spannungsversorgung...
