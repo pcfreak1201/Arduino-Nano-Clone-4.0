@@ -6,7 +6,7 @@
 ![Entwicklung](./images/ClassicModern.png)
 
 Es gibt für mich als "Bastler" drei große Bereiche, für die ich Microcontroller einsetze:
-1. "Mal eben"-Projekte die etwas einlsen, ausgeben oder steuern sollen. Meist mit **Arduino-Nano oder Mini** -- wenn es kleiner werden soll auch direkt ein **ATTiny** auf einem Breakout-Board
+1. "Mal eben"-Projekte, die etwas einlesen, ausgeben oder steuern sollen. Meist mit **Arduino-Nano oder Mini** -- wenn es kleiner werden soll auch direkt ein **ATTiny** auf einem Breakout-Board
 2. Komplexere Steuerungen mit etwas mehr Rechenpower und Computer-Anbindung (USB): **RP2040**
 3. Netzwerk (WLAN) Anwendungen die etwas im Internet machen sollen: **ESP32**
 
