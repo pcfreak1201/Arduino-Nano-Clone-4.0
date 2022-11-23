@@ -16,7 +16,7 @@ Außerdem war ich nie ein Freund von Quarzen. Ich liebe interne Oszillatoren. Na
 Vorlage sind für mich hier zunächst das **ATMEGA4808 megaAVR Mini Dev. Board, Arduino Compatible**
 
 (https://www.electrodragon.com/product/atmega4808-megaavr-mini-dev-board-arduino-compatible/)
-![TopView](https://s5.electrodragon.com/wp-content/uploads/2020/11/ATMEGA4808-megaAVR-Mini-Dev.-Board-Arduino-Compatible-01.jpg)
+<img src="./images/ED-m4808.png" width="800">
 
 Das dürfte die "Kaufvariante" der nächsten Generation sein. Bereits auf den MegaCoreX ausgelegt und kompatibel, günstig und kompakt.
 
