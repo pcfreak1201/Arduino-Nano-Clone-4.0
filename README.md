@@ -18,9 +18,13 @@ Vorlage sind für mich hier zunächst das **ATMEGA4808 megaAVR Mini Dev. Board, 
 (https://www.electrodragon.com/product/atmega4808-megaavr-mini-dev-board-arduino-compatible/)
 <img src="./images/ED-m4808.png" width="800">
 
-Das dürfte die "Kaufvariante" der nächsten Generation sein. Bereits auf den MegaCoreX ausgelegt und kompatibel, günstig und kompakt.
+Das dürfte die "Kaufvariante" der nächsten Generation sein. Bereits auf den MegaCoreX ausgelegt bzw. kompatibel, günstig und kompakt.
+Ein <ins>Hinweis:</ins> Ab Werk ist die Platine auf 3.3V eingestellt, läuft aber problemlos mit 16MHz. Wer mit ext. Komponenten aber auf 5V kommunizieren möchte,
+muß die beiden Jumper "invertieren". D.h. die Lötbrücke bei `CON=3V3` entfernen und die Lötbrücke von 3V3 auf 5V ändern.
 
-Und da ist das **ATmega4808 Development Board** von [#wagiminator] Stefan Wagner 
+![ATMEGA4808 Rückseite](./images/EDm4808_back.jpg)
+
+###Und da ist das **ATmega4808 Development Board** von [#wagiminator] Stefan Wagner 
 
 (https://github.com/pcfreak1201/atmega4808/tree/master/ATmega4808_DevBoard)
 
