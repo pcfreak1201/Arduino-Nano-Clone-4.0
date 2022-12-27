@@ -28,9 +28,9 @@ muß die beiden Jumper "invertieren". D.h. die Lötbrücke bei `CON=3V3` entfern
 
 ### Und da ist das **ATmega4808 Development Board** von [#wagiminator] Stefan Wagner 
 
-(https://github.com/pcfreak1201/atmega4808/tree/master/ATmega4808_DevBoard)
+(https://github.com/wagiminator/AVR-Development-Boards/tree/master/ATmega4808_DevBoard)
 
-![PinOut](https://github.com/wagiminator/AVR-Development-Boards/raw/master/ATmega4808_DevBoard/ATmega4808_DevBoard_pinout.png)
+![PinOut](https://raw.githubusercontent.com/wagiminator/AVR-Development-Boards/master/ATmega4808_DevBoard/documentation/ATmega4808_DevBoard_pinout.png)
 
 Welches mir als Inspiration für mein Board diente.
 
