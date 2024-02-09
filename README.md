@@ -43,4 +43,6 @@ Die Spannungsversorgung ist über USB vorgesehen (5V), doch auch eine alternativ
 Stefan's Idee, auch einen **AVRxxDy32** alternativ zu verwenden, gefällt mir ebenfalls. Insbesondere für einen 12bit ADC oder Port C mit eigener (z.B. 3.3V) Spannungsversorgung...
 
 **Update:** Auch wenn ich immer noch der Meinung bin, der ATMEGA4808 ist der geeignetste Nachfolger für den ATMEGA328, ist für mich die Priorität deutlich gesunken, da es ja schon ein gutes und günstiges ATMEGA4808-Board im Nano-Style gibt.
-Daher wende ich mich der Variante AVR64DD28 zu, quasi als Nachfolger zum ATTINY88 und leistungsfähiger als alles bisher angefasste. Sollte das löten allerdings zu viele Probleme machen, werde ich wohl auf den AVR64DD32 "upgraden" :-) 
+Daher wende ich mich der Variante AVR64DD28 zu, quasi als Nachfolger zum ATTINY88 und leistungsfähiger als alles bisher angefasste. Sollte das löten allerdings zu viele Probleme machen, werde ich wohl auf den AVR64DD32 "upgraden" :-)
+
+![AVRxxDD28 - erster Versuch!](./images/AVRXXDD28.png)
